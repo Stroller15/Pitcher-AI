@@ -20,7 +20,7 @@ export const SITE_CONFIG: Metadata = {
         description: "Pitcher AI converts product reviews into impactful social media pitches using AI.",
         images: [
             {
-                url: "/assets/og-image.png",
+                url: "/assets/icons/icon.png",
             }
         ]
     },
@@ -31,7 +31,7 @@ export const SITE_CONFIG: Metadata = {
         description: "Pitcher AI converts product reviews into impactful social media pitches using AI.",
         images: [
             {
-                url: "/assets/og-image.png",
+                url: "/assets/icons/icon.png",
             }
         ]
     },
