@@ -184,36 +184,10 @@ const HomePage = () => {
             </div>
 
             {/* Countdown Timer */}
-            <div className="flex flex-col items-center justify-center py-10 md:py-20 w-full">
-              <h2 className="text-2xl font-semibold mb-4">
-                Product Launch Countdown
+            <div className="flex flex-col items-center justify-center py-10 md:py-20 w-full shadow-lg">
+              <h2 className="text-2xl font-semibold mb-4 ">
+                Building in Progress stay tuned...
               </h2>
-              <div className="flex items-center justify-center gap-4">
-                <div className="text-center">
-                  <span id="days" className="text-4xl font-bold">
-                    {days}
-                  </span>
-                  <p>Days</p>
-                </div>
-                <div className="text-center">
-                  <span id="hours" className="text-4xl font-bold">
-                    {hours}
-                  </span>
-                  <p>Hours</p>
-                </div>
-                <div className="text-center">
-                  <span id="minutes" className="text-4xl font-bold">
-                    {minutes}
-                  </span>
-                  <p>Minutes</p>
-                </div>
-                <div className="text-center">
-                  <span id="seconds" className="text-4xl font-bold">
-                    {seconds}
-                  </span>
-                  <p>Seconds</p>
-                </div>
-              </div>
             </div>
           </div>
         </Container>
